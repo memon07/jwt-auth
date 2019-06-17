@@ -1,0 +1,27 @@
+{
+  "name": "jwt-auth",
+  "version": "1.0.0",
+  "description": "jwt authentication with node api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/memon07/jwt-auth.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "shoyeb memon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/memon07/jwt-auth/issues"
+  },
+  "homepage": "https://github.com/memon07/jwt-auth#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^1.19.1"
+  }
+}
